@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a-d-i-r-productions-b05403b8.zappy5.app/sitemap.xml

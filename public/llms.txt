@@ -1,0 +1,57 @@
+# A.D.I.R. Productions — Generative Engine Optimization Map
+
+> A אירועים והפקות business.
+
+---
+
+## Pages
+
+### בית
+https://a-d-i-r-productions-b05403b8.zappy5.app
+מחפשים הפקה טכנית לאירועי חברות? A.D.I.R. Productions מציעה שירותי הפקה טכנית לאירועים ברמה הגבוהה ביותר. צרו קשר עוד היום!
+
+### שירותים
+https://a-d-i-r-productions-b05403b8.zappy5.app/services
+גלו את מגוון שירותי הפקה טכנית לאירועי חברות שלנו: סאונד, תאורה, מולטימדיה, במה ועוד. הפקה טכנית לאירוע פרטי ברמה הגבוהה ביותר.
+
+### אודות
+https://a-d-i-r-productions-b05403b8.zappy5.app/about
+הכירו את A.D.I.R. Productions - מובילים בתחום הפקה טכנית לאירועי חברות. ניסיון עשיר, צוות מקצועי וציוד מתקדם לאירוע מושלם.
+
+### צור קשר
+https://a-d-i-r-productions-b05403b8.zappy5.app/contact
+צרו קשר עם A.D.I.R. Productions לקבלת הצעת מחיר להפקה טכנית לאירועי חברות. נענה תוך 24 שעות ונתאים פתרון מושלם לאירוע שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://a-d-i-r-productions-b05403b8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://a-d-i-r-productions-b05403b8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://a-d-i-r-productions-b05403b8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About A.D.I.R. Productions
+A.D.I.R. Productions is a business in the אירועים והפקות industry.
+
+## Target Audience
+חברות ולקוחות פרטיים
+
+## Industry
+אירועים והפקות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://a-d-i-r-productions-b05403b8.zappy5.app/sitemap.xml
+- **Robots.txt**: https://a-d-i-r-productions-b05403b8.zappy5.app/robots.txt
